@@ -1,4 +1,4 @@
-@media (min-width: 705px) {
+@media (min-width: 834px) {
     .menu-bigscreen ul {
         display: flex;
     }
@@ -27,7 +27,7 @@
 
 }
 
-@media not all and (min-width: 705px) {
+@media not all and (min-width: 834px) {
     
     .menu-bigscreen {
         display: none;
